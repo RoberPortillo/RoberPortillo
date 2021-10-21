@@ -10,7 +10,7 @@
 - 💻 &nbsp; Learning about Artificial Intelligence and Automata Theory.
 - 🗻 &nbsp; Climbing and hiking whenever I get some free time for it.
 
-<h3> 🛠 &nbsp;Technologies Stack</h3>
+<h3> 🛠 &nbsp;Technologies</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
