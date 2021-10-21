@@ -2,7 +2,7 @@
 
 <!--img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"-->
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 😏💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new features about Deep Learning.
 - 🎓 &nbsp; About to finish my Computer Science degree at Universidad Complutense de Madrid.
@@ -10,7 +10,7 @@
 - 💻 &nbsp; Learning about Artificial Intelligence and Automata Theory.
 - 🗻 &nbsp; Climbing and hiking whenever a get some free time for it.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
