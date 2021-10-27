@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Exploring new features about Deep Learning.
 - 🎓 &nbsp; About to finish my Computer Science degree at Universidad Complutense de Madrid.
-- 💼 &nbsp; Looking for a job that can help me earn new skills and improving.
+- 💼 &nbsp; Looking for a job that can help me gain new skills and improve.
 - 💻 &nbsp; Learning about Artificial Intelligence and Automata Theory.
-- 🗻 &nbsp; Climbing and hiking whenever I get some free time for it.
+- 🗻 &nbsp; Climbing and hiking whenever I get some free time.
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
