@@ -1,6 +1,6 @@
 <h2> Hey there! 👋 I'm Roberto Portillo</h2>
 
-<!--img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"-->
+<!-- POSIBLE BANNER PARA EL FUTURO img src=""-->
 
 <h3> 😏💻 &nbsp;About Me </h3>
 
@@ -36,7 +36,7 @@
 
 <h3> ☎️ &nbsp;Contact me </h3>
 
-<!--p align="center">
-<!--a href="mi_link_linkdn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"--></a>
+<!--p align="center"-->
+<a href="https://www.linkedin.com/in/roberportillo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roberto%20Portillo%20Torres-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:robportillotorres@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-robportillotorres@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
